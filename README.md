@@ -1,3 +1,3 @@
-# Apenas uns testes em python para matar o tempo
+# Apenas para matar o tempo neste fim de semana
 
-Tentando fazer umas coisinhas que tinha anotado para fazer a um tempo.
+Fazendo umas coisinhas que tinha anotado para fazer a um tempo e testando outras.
