@@ -1,6 +1,6 @@
 from pytube import Youtube
 
-link = input("Insira o link do video do yt url : ")
+link = input("Insira o link do youtube : ")
 yt = Youtube(link)
 videos = yt.streams.all()  # mostra os formatos disponiveis
 
